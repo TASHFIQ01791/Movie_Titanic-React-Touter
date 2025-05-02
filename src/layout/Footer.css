@@ -1,0 +1,15 @@
+/* Footer Styles - Matching Header Theme */
+.section-footer {
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 10px 15px;
+}
+
+/* Left side text */
+.footer-text {
+  font-size: 14px;
+  font-weight: 400;
+  color: #000;
+  text-align: center;
+}
